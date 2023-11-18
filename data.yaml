@@ -1,0 +1,7 @@
+# custom.yaml
+train: ../Data2/train/images
+val: ../Data2/test/images
+
+nc: 12  # Number of classes (1 for hand gesture)
+
+names: ['Beautiful','Cannot_hear_you','feeling_Sleepy','Handshake','Love','Namaste','Power','silent','sorry','Thinking', 'welldone','You_are_welcome']
